@@ -65,8 +65,7 @@ The Kiwix tools build using [Meson](http://mesonbuild.com/) version
 compilation tools. Install them first:
 * [Meson](http://mesonbuild.com/)
 * [Ninja](https://ninja-build.org/)
-* [pkg-config](https://www.freedesktop.org/wiki/Software/pkg-config/)
-
+* [pkg-config](https://www.freedesktop.org/wiki/Software/pkg-config/)\n
 These tools should be packaged if you use a cutting edge operating
 system. If not, have a look to the [Troubleshooting](#Troubleshooting)
 section.
@@ -116,6 +115,11 @@ An official Docker image of the Kiwix tools can be found on
 [GHCR](https://ghcr.io/kiwix/kiwix-tools). A
 `kiwix-serve` dedicated Docker image [exists
 too](https://ghcr.io/kiwix/kiwix-serve).
+
+One-Click Deploy
+----------------
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Kiwix%20Serve/)
 
 Troubleshooting
 ---------------
