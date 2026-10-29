@@ -65,7 +65,8 @@ The Kiwix tools build using [Meson](http://mesonbuild.com/) version
 compilation tools. Install them first:
 * [Meson](http://mesonbuild.com/)
 * [Ninja](https://ninja-build.org/)
-* [pkg-config](https://www.freedesktop.org/wiki/Software/pkg-config/)\n
+* [pkg-config](https://www.freedesktop.org/wiki/Software/pkg-config/)
+
 These tools should be packaged if you use a cutting edge operating
 system. If not, have a look to the [Troubleshooting](#Troubleshooting)
 section.
